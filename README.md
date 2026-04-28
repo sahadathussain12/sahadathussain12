@@ -1,44 +1,84 @@
-<!-- Banner Image -->
-![Banner](https://i.ibb.co/your-banner.png)
+![](https://komarev.com/ghpvc/?username=abubakkarsiddik123&style=for-the-badge)
 
-# 👋 Hi, I'm Sahadat Hussain
-### 💻 Web Developer | React Enthusiast
+<img alt="Coding"  src="./abu_bakkar_siddik.png"/>
 
----
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Abu+Bakkar+Siddik...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-## 👨‍💻 About Me
-I am a passionate web developer from Bangladesh.  
-I love building modern and user-friendly web applications.
 
-- 🔭 I’m currently working on a tourism website  
-- 🌱 I’m exploring Next.js  
-- 💬 Ask me about JavaScript & React  
-- ⚡ Fun fact: I love coding at night  
+<div align="center">
+  <strong>Frontend Web Developer 👋 | Expert in JavaScript, React.js, Next.js, Tailwindcss|</strong>
+</div>
+<br/>
+<div align="center">
+ 🌐 Connect with Me
 
----
-
-## 🚀 Skills
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,git,github" />
+<p>
+  <a href="https://linkedin.com/in/abubakkarsiddik07">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="https://app.daily.dev/abubakkarsiddik123">
+    <img src="https://img.shields.io/badge/Daily.dev-black?style=for-the-badge&logo=devdotto" />
+  </a>
+  
+  <a href="https://abubakkarsiddik123.github.io/my-website-code/">
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=google-chrome" />
+  </a>
+  
+  <a href="https://www.facebook.com/share/1CdpRF4gDj/">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
+  </a>
 </p>
+</div>
+<hr/>
+<img align="right" height="250" width="365" alt="" src="10_coding_dribbble.gif" />
 
----
+### Talking about Personal Stuff:
 
-## 🌐 Connect with Me
+- 🛠 &nbsp; I’m currently working with <strong>JavaScript, React,Node.js,Tailwind CSS</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Golang, Blockchain, Rust, Solidity, Solana.</strong>
+- 📫 &nbsp; Reach me out: <strong>abubakkar872884@gmail.com</strong>
 
-<p align="left">
-<a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://tiktok.com/@your"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://snapchat.com/add/your"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-</p>
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
----
+<hr/>
 
-## 📊 GitHub Stats
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+<div align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+<br/>
 
-![Streak](https://streak-stats.demolab.com?user=yourusername)
+```javascript
+const abuBakkar = {
+  pronouns: "he/him",
+  code: ["JavaScript","HTML", "CSS", "Tailwind CSS"],
+  tools: ["React", "Next", "Node.js",],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    coorganizer: "Moulvibazar-Polytechnic-institute",
+    speaker: "Computer Science & Technology",
+    mentor: "Web Developer"
+  },
+  challenge: "I am doing the #100DaysOfCode challenge focused on React and JavaScript"
+}
+```
